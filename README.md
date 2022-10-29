@@ -1,2 +1,2 @@
-# Peticiones_y_Navegacion
+# Peticiones & Navegacion
 Navegación por app móvil y peticiones Axios
